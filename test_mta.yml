@@ -1,0 +1,11 @@
+ID: accente
+_schema-version: '0.0'
+version: 0.0.1
+
+modules:
+  - name: accente
+    type: application 
+    parameters: 
+      #defines the domain for which the app route would be set
+      domain: accente.cfapps.sap.hana.ondemand.com
+      
